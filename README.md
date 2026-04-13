@@ -47,8 +47,8 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/SadeqShryim/Cis476_TermPoject.git
-cd Cis476_TermPoject
+git clone https://github.com/Cubed/cis476-term-project-finalsubmit.git
+cd cis476-term-project-finalsubmit
 ```
 
 ### 2. Set up the backend
